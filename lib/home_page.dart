@@ -64,16 +64,13 @@ class _HomePageState extends State<HomePage> {
               textAlign: TextAlign.center,
             ),
             verticalSeparator(),
-            Padding(
-              padding: const EdgeInsets.all(40.0),
-              child: ElevatedButton(
-                onPressed: () {
-                  Nav.navigateToSold(context);
-                },
-                child: Padding(
-                  padding: const EdgeInsets.all(20.0),
-                  child: Text('See sold creations', style: logoStyle),
-                ),
+            ElevatedButton(
+              onPressed: () {
+                Nav.navigateToSold(context);
+              },
+              child: Padding(
+                padding: const EdgeInsets.all(20.0),
+                child: Text('See sold creations', style: logoStyle),
               ),
             ),
             verticalSeparator(),
