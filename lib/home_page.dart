@@ -50,7 +50,7 @@ class _HomePageState extends State<HomePage> {
             ClipRRect(
               borderRadius: BorderRadius.circular(100.0),
               child:
-                  Image.asset("images/logo-512.png", width: 200, height: 200),
+                  Image.asset("assets/images/logo-512.png", width: 200, height: 200),
             ),
             verticalSeparator(),
             Text(
