@@ -54,7 +54,7 @@ class _HomePageState extends State<HomePage> {
             ),
             verticalSeparator(),
             Text(
-              "@CauseAScene",
+              "@CauseASceneArt",
               style: logoStyle,
             ),
             verticalSeparator(),
