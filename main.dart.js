@@ -33918,7 +33918,7 @@ ap(){return new A.Hs(B.n)}}
 A.Hs.prototype={
 N(a,b){var s=null
 return A.a6W(s,A.i8(s,A.F5(B.bM,A.a([new A.dS(B.tJ,s,s,this.WS(),s),new A.dS(B.dR,s,s,A.i8(s,this.WF(),s,s,s,s,s),s)],t.E),B.dw),s,B.ua,s,s,s))},
-WS(){var s,r=null,q=A.zr(100),p=A.a6p("images/logo-512.png",200,200),o=A.Zf("@CauseASceneArt",B.tn,r,r),n=this.c
+WS(){var s,r=null,q=A.zr(100),p=A.a6p("assets/images/logo-512.png",200,200),o=A.Zf("@CauseASceneArt",B.tn,r,r),n=this.c
 n.toString
 s=t.E
 return new A.zG(8,B.ef,A.i8(r,A.ajO(A.a([B.bK,new A.Ag(q,p,r),B.bK,o,B.bK,A.Zf("I paint on paintings. Message me on Instagram to commission something! (local DFW pickup only). 10% of all sales go to charity.",A.aI(n).R8.f,B.jE,r),B.bK,new A.eT(B.xY,new A.AX(new A.a1i(this),r,r,r,r,B.y,r,!1,new A.eT(B.ef,A.Zf("See sold creations",B.tn,r,r),r),r),r),B.bK,A.zJ(A.W4(A.a([this.WL(0,B.yg,"https://www.instagram.com/causeasceneart/")],s),B.bZ,B.eU,B.dk),r,r),B.bK],s),B.eU,B.qh),r,r,B.ef,r,r),r)},
