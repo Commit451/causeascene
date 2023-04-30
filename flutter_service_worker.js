@@ -127,8 +127,8 @@ const RESOURCES = {
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "manifest.json": "78f399106f8df1fbba5d87b242aad8bb",
-"index.html": "83f54946292de1815ec4db7f8c7240f6",
-"/": "83f54946292de1815ec4db7f8c7240f6",
+"index.html": "9a216da50e0836b4cb2c899b3b9781f3",
+"/": "9a216da50e0836b4cb2c899b3b9781f3",
 "favicon.png": "9060bba986608ea10bfa9d230d530c2d",
 "icons/Icon-192.png": "0e25b626c09447895cf473508aab9c8a",
 "icons/Icon-512.png": "c95538fcf5ea8aa76cbc1c7dd93a98c6"
